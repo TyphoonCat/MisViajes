@@ -1,0 +1,89 @@
+.html {
+  scroll-behavior: auto !important;
+}
+
+.body {
+  font-family: Helvetica;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: transparent;
+  color: #ffffff;
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+}
+
+.navbar-brand {
+  font-family: 'Helvetica';
+}
+
+/* FIRST SECTION */
+
+.hero-section {
+  width: 75rem;
+}
+#Quienes-somos {
+  background-color: #000000;
+  font-family: Helvetica;
+}
+#Quienes-somos {
+  font-size: 17px;
+  color: aliceblue;
+}
+#Quienes-somos h1 {
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.col-4 {
+  text-align: justify;
+}
+
+/* SECOND SECTION */
+#Destacados {
+  background-color: #000000;
+  font-family: Helvetica;
+}
+#Destacados {
+  font-size: 17px;
+  color: aliceblue;
+}
+
+#Destacados h1 {
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.card-body {
+  background-color: lightseagreen;
+}
+
+/* CONTACT */
+
+#Contacto {
+  background-color: #000000;
+  font-family: 'Helvetica';
+  font-size: 30px;
+  color: aliceblue;
+}
+#Contacto h1 {
+  color: #ffffff;
+  font-family: 'Helvetica';
+  font-size: 30px;
+}
+
+/* FOOTER */
+#footer {
+  background-color: lightseagreen;
+}
+
+#footer h1 {
+  font-family: 'Helvetica';
+}
+
+#footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
